@@ -1,0 +1,3 @@
+[submodule "PFProgressHUD"]
+	path = PFProgressHUD
+	url = https://aleksiy805@github.com/aleksiy805/PFProgressHUD.git
